@@ -1,3 +1,5 @@
+package br.com.saojudas.at04;
+
 import java.util.Scanner;
 
 public class MediaSemElse {
